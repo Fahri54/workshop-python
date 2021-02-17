@@ -9,12 +9,12 @@
 <p>2. Langkah kedua yaitu tunggu proses install.<p>
 <p>3. Setelah selesai proses install dan muncul Setup was successful maka python sudah berasil diinstal.<p>
 <p>4. Langkah selanjutnya belum selesai biar python bias digunakan kita instal anaconda pertama buka dan next.<p>
-5. Langkah selanjutnya klik I Agree.
-6. Langkah selanjutnya pilih Just Me dan Next.
-7. Letakan install anaconda ke direktori C lalu Next.
-8. Setelah itu pilih atau ceklis yang Register Miniconda3 as my default python 3.8.
-9. Tunggu proses install setelah completed maka klik next.
-10. Finish
+<p>5. Langkah selanjutnya klik I Agree.<p>
+<p>6. Langkah selanjutnya pilih Just Me dan Next.<p>
+<p>7. Letakan install anaconda ke direktori C lalu Next.<p>
+<p>8. Setelah itu pilih atau ceklis yang Register Miniconda3 as my default python 3.8.<p>
+<p>9. Tunggu proses install setelah completed maka klik next.<p>
+<p>10. Finish<p>
 
 # Jalankan python
 <img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%201/SS%202.png"/>
