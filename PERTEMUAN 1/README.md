@@ -5,10 +5,10 @@
 
 # Instalasi python
 <img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%201/SS%201.png"/>
-1. Langkah pertama yaitu buka downloadan python setelah itu pilih semua kotak dibagian bawah sendiri baru klik Install Now.
-2. Langkah kedua yaitu tunggu proses install.
-3. Setelah selesai proses install dan muncul Setup was successful maka python sudah berasil diinstal.
-4. Langkah selanjutnya belum selesai biar python bias digunakan kita instal anaconda pertama buka dan next.
+<p>1. Langkah pertama yaitu buka downloadan python setelah itu pilih semua kotak dibagian bawah sendiri baru klik Install Now.<p>
+<p>2. Langkah kedua yaitu tunggu proses install.<p>
+<p>3. Setelah selesai proses install dan muncul Setup was successful maka python sudah berasil diinstal.<p>
+<p>4. Langkah selanjutnya belum selesai biar python bias digunakan kita instal anaconda pertama buka dan next.<p>
 5. Langkah selanjutnya klik I Agree.
 6. Langkah selanjutnya pilih Just Me dan Next.
 7. Letakan install anaconda ke direktori C lalu Next.
