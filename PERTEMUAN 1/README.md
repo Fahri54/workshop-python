@@ -19,7 +19,7 @@
 # Jalankan python
 <img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%201/SS%202.png"/>
 
-#Penggunaan interpreter python
+# Penggunaan interpreter python
 # 1.	Memanggil interpreter python
 Yang mana pada interpreter python yaitu letak install, biasanya letaknya yaitu /usr/local/bin/python3.9 kalau di tempat yang saya 
 install yaitu di direktori C. C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9. Sekarang python yang 
