@@ -56,21 +56,18 @@ secara sintaksis tetapi program tidak memerlukan tindakan.
 Pada kata kunci def memperkenalkan fungsi definition. Itu harus diikuti oleh nama fungsi dan daftar parameter 
 formal yang di dalam tanda kurung. Pernyataan yang membentuk tubuh fungsi mulai dari baris berikutnya, dan harus diberi indentasi.
 
-Pada hasil di bawah sangat mudah untuk menulis fungsi yang mengembalikan daftar list nomor seri Fibonacci, alih-alih mencetaknya:
-<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/12.png"/>
-
 # H.	Lebih lanjut tentang fungsi
-<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/13.png"/>
+<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/12.png"/>
 -	Merupakan argument bawaan
 
-<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/14.png"/>
+<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/13.png"/>
 -	Merupakan argument kata kunci keyword 
 
-<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/15.png"/>
+<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/14.png"/>
 -	Merupakan parameter spesial 
 
-<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/16.png"/>
+<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/15.png"/>
 -	Merupakan daftar argument yang dapat berubah ubah arbitrary 
 
-<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/17.png"/>
+<img src="https://github.com/Fahri54/workshop-python/blob/main/PERTEMUAN%202/gambar/16.png"/>
 -	Merupakan pembukaan paket unpacking daftar argumen 
