@@ -61,6 +61,7 @@ Pada ekspresi awal dalam pemahaman daftar list comprehension dapat berupa ekspre
 
 Pada contoh dibawah ini matriks 3x4 diimplementasikan sebagai daftar list 3 dari daftar list panjang 4
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-03/gambar/5.png"/>
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-03/gambar/6.png"/>
 Pada program di atas sebagai contoh anda harus memilih fungsi bawaan untuk pernyataan aliran flow yang kompleks. Fungsi zip() akan melakukan pekerjaan 
 yang baik untuk kasus penggunaan ini:
@@ -70,6 +71,7 @@ Ada cara untuk menghapus item dari daftar yang diberikan indeksnya, bukan nilain
 nilai. Pernyataan del juga dapat digunakan untuk menghapus irisan dari daftar list atau menghapus seluruh daftar list (yang kami lakukan sebelumnya 
 dengan menetapkan daftar kosong pada slice). Sebagai contoh:
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-03/gambar/7.png"/>
+
 Biasanya del juga dapat digunakan untuk menghapus seluruh variable, contohnya:
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-03/gambar/8.png"/>
 
