@@ -61,7 +61,9 @@ dengan arsitektur yang berbeda.
 Python dilengkapi dengan pustaka modul standar, yang dijelaskan dalam dokumen terpisah, Referensi Pustaka Python ("Library Reference" selanjutnya). Beberapa 
 modul dibangun ke dalam interpreter; ini menyediakan akses ke operasi yang bukan bagian dari inti bahasa tetapi tetap dibangun, baik untuk efisiensi atau untuk 
 menyediakan akses ke sistem operasi primitif seperti pemanggilan sistem.
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-04/gambar/6.png"/>
+
 Kedua variabel ini hanya ditentukan jika interpreter dalam mode interaktif.
 
 # 3.	Fungsi dir()
