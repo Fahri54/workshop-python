@@ -35,6 +35,7 @@ ia memperkenalkan sekumpulan nama yang tidak diketahui ke dalam interpreter, mun
 
 # a.	Mengoperasikan modul sebagai skrip
 Ketika anda mengoperasikan modul Python yaitu dengan berikut:
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-04/gambar/4.png"/>
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-04/gambar/5.png"/>
 Kode diatas dalam modul akan dieksekusi, sama seperti jika anda mengimpornya, tetapi dengan __name__ diatur ke "__main__". Itu berarti bahwa dengan 
