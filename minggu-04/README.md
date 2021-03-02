@@ -14,6 +14,7 @@ definisi dalam file dan menggunakannya dalam skrip atau dalam contoh interaktif 
 Modul adalah file yang berisi definisi dan pernyataan Python. Nama berkas adalah nama modul dengan akhiran .py diakhirnya. Dalam sebuah modul, nama 
 modul (sebagai string) tersedia sebagai nilai variabel global __name__. Misalnya, gunakan editor teks favorit Anda untuk membuat bernama bernama 
 fibo.py di direktori saat ini dengan konten berikut:
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-04/gambar/1.png"/>
 
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-04/gambar/2.png"/>
@@ -28,6 +29,7 @@ Di sisi lain, jika anda tahu apa yang anda lakukan, anda dapat menyentuh variabe
 fungsinya, modname.itemname.
 
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-04/gambar/3.png"/>
+
 Ini mengimpor semua nama kecuali yang dimulai dengan garis bawah (_). Dalam kebanyakan kasus, programmer Python tidak menggunakan fasilitas ini karena 
 ia memperkenalkan sekumpulan nama yang tidak diketahui ke dalam interpreter, mungkin menyembunyikan beberapa hal yang sudah anda definisikan.
 
