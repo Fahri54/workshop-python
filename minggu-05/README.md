@@ -24,6 +24,7 @@ ke tiga tempat setelah desimal:
 
 # b.	Metode String format()
 Penggunaan dasar metode str.format() terlihat seperti ini:
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-05/gambar/3.png"/>
 
 Tanda kurung dan karakter di dalamnya (disebut fields format) diganti dengan objek yang diteruskan ke metode str.format().
@@ -41,6 +42,7 @@ Operasi ini umumnya dikenal sebagai interpolasi string. Sebagai contoh:
 
 # 2.	Membaca dan Menulis Berkas
 open() mengembalikan sebuah file object, dan paling umum digunakan dengan dua argumen: open(filename, mode).
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-05/gambar/6.png"/>
 
 Argumen pertama adalah string yang berisi nama file. Argumen kedua adalah string lain yang berisi beberapa karakter yang menggambarkan cara berkas akan digunakan. 
