@@ -42,7 +42,6 @@ Operasi ini umumnya dikenal sebagai interpolasi string. Sebagai contoh:
 
 # 2.	Membaca dan Menulis Berkas
 open() mengembalikan sebuah file object, dan paling umum digunakan dengan dua argumen: open(filename, mode).
-
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-05/gambar/6.png"/>
 
 Argumen pertama adalah string yang berisi nama file. Argumen kedua adalah string lain yang berisi beberapa karakter yang menggambarkan cara berkas akan digunakan. 
@@ -58,6 +57,7 @@ Untuk membaca konten file, panggil f.read(size), yang membaca sejumlah kuantitas
 mode biner). size adalah argumen numerik opsional. Ketika size dihilangkan atau negatif, seluruh isi file akan dibaca dan dikembalikan; itu masalah Anda jika file 
 tersebut dua kali lebih besar dari memori mesin Anda. Kalau tidak, paling banyak size karakter (dalam mode teks) atau size byte (dalam mode biner) dibaca dan 
 dikembalikan. Jika akhir file telah tercapai, f.read() akan mengembalikan string kosong ('').
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-05/gambar/7.png"/>
 
 # b.	Menyimpan Data Terstruktur dengan Json
