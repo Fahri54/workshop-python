@@ -31,9 +31,9 @@ Pernyataan try berfungsi sebagai berikut:
 - Pertama, try clause (pernyataan(-pernyataan) di antara kata kunci try dan except) dieksekusi.
 - Jika tidak ada pengecualian terjadi, except clause dilewati dan eksekusi pernyataan :keyword: try selesai.
 - Jika pengecualian terjadi selama eksekusi klausa try, sisa klausa dilewati. Kemudian jika jenisnya cocok dengan pengecualian yang dinamai dengan kata kunci 
-- exception, klausa except dioperasikan, dan kemudian eksekusi berlanjut setelah pernyataan try.
+exception, klausa except dioperasikan, dan kemudian eksekusi berlanjut setelah pernyataan try.
 - Jika terjadi pengecualian yang tidak cocok dengan pengecualian yang disebutkan dalam klausa kecuali, itu diteruskan ke luar pernyataan try; jika tidak ada 
-- penangan yang ditemukan, ini adalah unhandled exception dan eksekusi berhenti dengan pesan seperti yang ditunjukkan di atas.
+penangan yang ditemukan, ini adalah unhandled exception dan eksekusi berhenti dengan pesan seperti yang ditunjukkan di atas.
 
 # 4.	Memunculkan pengecualian
 Pernyataan raise memungkinkan programmer untuk memaksa pengecualian yang ditentukan terjadi. Sebagai contoh:
