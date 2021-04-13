@@ -58,6 +58,7 @@ Format pengarsipan dan kompresi data umum didukung langsung oleh modul-modul yan
 Python menyediakan alat pengukuran yang segera menjawab pertanyaan-pertanyaan itu.
 Misalnya, mungkin tergoda untuk menggunakan fitur tuple packing dan unpacking daripada pendekatan tradisional untuk bertukar argumen. Modul :mod: timeit dengan cepat 
 menunjukkan keunggulan kinerja secara sederhana:
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-08/gambar/10.png"/>
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-08/gambar/11.png"/>
 
