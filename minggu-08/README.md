@@ -7,8 +7,11 @@
 # 1.	Antarmuka Sistem Operasi
 Modul os menyediakan puluhan fungsi untuk berinteraksi dengan sistem operasi:
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-08/gambar/1.png"/>
+
+Pastikan untuk menggunakan gaya import os alih-alih from os import *. Ini akan menjaga os.open() dari membayangi shadowing fungsi bawaan open() yang beroperasi jauh berbeda.
 # 2.	Berkas Wildcard
 Modul glob menyediakan fungsi untuk membuat daftar berkas dari pencarian wildcard di direktori:
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-08/gambar/2.png"/>
 # 3.	Baris Perintah Berargumen
 Skrip utilitas umum seringkali perlu memproses argumen baris perintah. Argumen-argumen ini disimpan dalam atribut argv dari modul sys sebagai daftar. Sebagai contoh, 
@@ -26,6 +29,7 @@ ringkas dan dioptimalkan:
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-08/gambar/5.png"/>
 # 6.	Matematika
 Modul math memberikan akses ke fungsi-fungsi pustaka C yang mendasari untuk matematika angka pecahan floating point:
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-08/gambar/6.png"/>
 # 7.	Akses Internet
 Ada sejumlah modul untuk mengakses internet dan memproses protokol internet. Dua yang paling sederhana adalah urllib.request untuk mengambil data dari URL dan smtplib 
@@ -55,14 +59,14 @@ untuk memastikan kode tetap benar untuk dokumentasi:
 # 12.	Dilengkapi Baterai
 Python memiliki filosofi "dilengkapi baterai". Ini paling baik dilihat melalui kemampuan yang canggih dan kuat robust dengan dukungan paket-paket yang lebih besar. 
 Sebagai contoh:
-a.	Modul xmlrpc.client dan xmlrpc.server membuat penerapan panggilan prosedur jarak jauh menjadi tugas yang hampir sepele. Terlepas dari nama-nama modul, tidak 
+# a.	Modul xmlrpc.client dan xmlrpc.server membuat penerapan panggilan prosedur jarak jauh menjadi tugas yang hampir sepele. Terlepas dari nama-nama modul, tidak 
 diperlukan pengetahuan atau penanganan XML secara langsung.
-b.	Paket email adalah pustaka untuk mengelola pesan email, termasuk MIME dan lainnya RFC 2822 dokumen pesan berbasis. Tidak seperti smtplib dan poplib yang 
+# b.	Paket email adalah pustaka untuk mengelola pesan email, termasuk MIME dan lainnya RFC 2822 dokumen pesan berbasis. Tidak seperti smtplib dan poplib yang 
 benar-benar mengirim dan menerima pesan, paket email memiliki toolset lengkap untuk membangun atau mendekodekan struktur pesan kompleks (termasuk lampiran) dan 
 untuk mengimplementasikan pengkodean internet dan protokol header.
-c.	Paket json menyediakan dukungan kuat untuk mengurai format pertukaran data populer ini. Modul csv mendukung pembacaan dan penulisan berkas secara langsung 
+# c.	Paket json menyediakan dukungan kuat untuk mengurai format pertukaran data populer ini. Modul csv mendukung pembacaan dan penulisan berkas secara langsung 
 dalam format Nilai Terpisah-Koma atau CSV, umumnya didukung oleh database dan spreadsheet. Pemrosesan XML didukung oleh paket xml.etree.ElementTree, xml.dom dan 
 xml.sax. Bersama-sama, modul dan paket ini sangat menyederhanakan pertukaran data antara aplikasi Python dan alat lainnya.
-d.	Modul sqlite3 adalah pembungkus untuk pustaka basis data SQLite, menyediakan basis data persisten yang dapat diperbarui dan diakses menggunakan sintaks SQL 
+# d.	Modul sqlite3 adalah pembungkus untuk pustaka basis data SQLite, menyediakan basis data persisten yang dapat diperbarui dan diakses menggunakan sintaks SQL 
 yang sedikit tidak standar.
-e.	Internasionalisasi didukung oleh sejumlah modul termasuk paket gettext, locale, dan codecs.
+# e.	Internasionalisasi didukung oleh sejumlah modul termasuk paket gettext, locale, dan codecs.
