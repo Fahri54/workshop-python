@@ -30,6 +30,7 @@ Cara paling langsung untuk mengakhiri skrip adalah dengan menggunakan sys.exit()
 # 5.	Pencocokan Pola String
 Modul re menyediakan alat ekspresi reguler untuk pemrosesan string lanjutan. Untuk pencocokan dan manipulasi yang kompleks, ekspresi reguler menawarkan solusi yang 
 ringkas dan dioptimalkan:
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-08/gambar/5.png"/>
 
 # 6.	Matematika
@@ -45,10 +46,12 @@ untuk mengirim email:
 # 8.	Tanggal dan Waktu
 Modul datetime menyediakan kelas untuk memanipulasi tanggal dan waktu dengan cara yang sederhana dan kompleks. Sementara aritmatika tanggal dan waktu didukung, fokus 
 implementasi adalah pada ekstraksi anggota yang efisien untuk pemformatan dan manipulasi keluaran. Modul ini juga mendukung objek yang sadar zona waktu.
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-08/gambar/8.png"/>
 
 # 9.	Kompresi Data
 Format pengarsipan dan kompresi data umum didukung langsung oleh modul-modul yang ada antara lain: :mod: zlib, gzip, bz2, lzma, zipfile dan tarfile.
+
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-08/gambar/9.png"/>
 
 # 10.	Pengukuran Kinerja
