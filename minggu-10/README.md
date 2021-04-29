@@ -25,5 +25,5 @@ salin kode ke dalamnya. Atau gunakan perintah berikut ini pada terminal
 # 5.	Jalankan Kode Python
 <img src="https://github.com/Fahri54/workshop-python/blob/main/minggu-10/gambar/7.png"/>
 
-  •	Ganti dan dengan nama pengguna dan kata sandi SQL yang Anda buat sebelumnya.
-  •	Ganti dan dengan nama host dan port dalam (sql/tcp)string koneksi dari teks selamat datang shell SQL.
+# •	Ganti dan dengan nama pengguna dan kata sandi SQL yang Anda buat sebelumnya.
+# •	Ganti dan dengan nama host dan port dalam (sql/tcp)string koneksi dari teks selamat datang shell SQL.
